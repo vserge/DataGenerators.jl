@@ -1,5 +1,5 @@
 using DataGenerators
-using Base.Test
+using Test
 using BaseTestMulti
 using Distributions
 
