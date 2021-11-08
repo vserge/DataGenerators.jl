@@ -1,0 +1,8 @@
+name = "DataGenerators"
+uuid = "63f32c62-9f1c-4541-8ad7-e26c4b375057"
+authors = ["Robert Feldt", "Simon Poulding"]
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+HypothesisTests = "09f84164-cd44-5f33-b23f-e6b0d136a0d5"
